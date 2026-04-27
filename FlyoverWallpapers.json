@@ -481,14 +481,6 @@
     },
     {
         "location": "San Francisco",
-        "title": "Morning Fog",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A008_C007_011550_CC_v01_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A008_C007_011550_CC_v01_HDR_PS_FINAL_20180710_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A008_C007_011550_CC_v01_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A008_C007_011550_CC_v01_HDR_PS_FINAL_20180710_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "San Francisco",
         "title": "Golden Gate Bridge",
         "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A013_C012_0122D6_CC_v01_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
         "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A013_C012_0122D6_CC_v01_HDR_PS_FINAL_20180710_HDR_2K_HEVC.mov",

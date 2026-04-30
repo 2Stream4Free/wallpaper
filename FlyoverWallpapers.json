@@ -993,48 +993,6 @@
     "[": "{"
   },
   {
-    "[": "location\": \"Los Angeles"
-  },
-  {
-    "[": "title\": \"LAX Airport"
-  },
-  {
-    "[": "url_1080p\": \"http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_LA_A006_C008_t9_6M_HB_tag0.mov"
-  },
-  {
-    "[": "url_1080p_hdr\": \"http://sylvan.apple.com/Aerials/2x/Videos/LA_A006_C008_2K_HDR_HEVC.mov"
-  },
-  {
-    "[": "url_4k\": \"http://sylvan.apple.com/Aerials/2x/Videos/LA_A006_C008_4K_SDR_HEVC.mov"
-  },
-  {
-    "[": "url_4k_hdr\": \"http://sylvan.apple.com/Aerials/2x/Videos/LA_A006_C008_4K_HDR_HEVC.mov"
-  },
-  {
-    "[": "}"
-  },
-  {
-    "[": "{"
-  },
-  {
-    "[": "location\": \"Los Angeles"
-  },
-  {
-    "[": "title\": \"LAX Airport"
-  },
-  {
-    "[": "url_1080p\": \"http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_SDR_PS_FINAL_20180801_SDR_2K_HEVC.mov"
-  },
-  {
-    "[": "url_1080p_hdr\": \"http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_HDR_PS_FINAL_20180801_HDR_2K_HEVC.mov"
-  },
-  {
-    "[": "url_4k\": \"http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_SDR_PS_FINAL_20180801_SDR_4K_HEVC.mov"
-  },
-  {
-    "[": "url_4k_hdr\": \"http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_HDR_PS_FINAL_20180801_HDR_4K_HEVC.mov"
-  },
-  {
     "[": "}"
   },
   {
